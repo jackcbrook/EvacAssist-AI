@@ -1,0 +1,41 @@
+{
+  "incidents": [
+    {
+      "incident_id": "INC-2026-001",
+      "type": "wildfire",
+      "status": "confirmed",
+      "zone": "West Ridge",
+      "reported_at": "2026-10-23T14:32:00Z",
+      "reported_by": "Lakewood County Fire Department",
+      "description": "Active wildfire confirmed in West Ridge near the intersection of Crestview Drive and Pinon Road. Fire is spreading northeast driven by 25 mph winds. Mandatory evacuation order issued for all West Ridge residents.",
+      "severity": "high",
+      "verified": true,
+      "source": "official_dispatch"
+    },
+    {
+      "incident_id": "INC-2026-002",
+      "type": "smoke_report",
+      "status": "unverified",
+      "zone": "West Ridge",
+      "reported_at": "2026-10-23T14:18:00Z",
+      "reported_by": "Anonymous 911 caller",
+      "description": "Caller reported seeing heavy smoke rising from the West Ridge hillside near Pinon Road. No visual confirmation of flames. Fire department dispatched to investigate.",
+      "severity": "unknown",
+      "verified": false,
+      "source": "public_tip"
+    },
+    {
+      "incident_id": "INC-2026-003",
+      "type": "wildfire",
+      "status": "confirmed",
+      "zone": "West Ridge",
+      "reported_at": "2026-10-23T14:45:00Z",
+      "reported_by": "Lakewood County Emergency Management",
+      "description": "A fast-moving wildfire has broken out in the West Ridge area close to Crestview Drive. Wind-driven flames are pushing toward the northeast. Residents in West Ridge have been ordered to evacuate immediately.",
+      "severity": "high",
+      "verified": true,
+      "source": "official_dispatch",
+      "duplicate_of": "INC-2026-001"
+    }
+  ]
+}

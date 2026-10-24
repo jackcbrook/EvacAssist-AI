@@ -1,0 +1,21 @@
+resident_id,name,age,zone,mobility_needs,transportation_access,medical_equipment,living_arrangement,preferred_language,phone,email
+R001,Margaret Okafor,74,North Ridge,walker,has_car,none,lives_with_family,English,555-0141,mokafor@fakemail.com
+R002,Thomas Brennan,68,North Ridge,none,has_car,none,lives_alone,English,555-0182,tbrennan@fakemail.com
+R003,Lupe Sandoval,55,North Ridge,none,no_car,none,lives_with_family,Spanish,555-0193,lsandoval@fakemail.com
+R004,Evelyn Park,82,North Ridge,wheelchair,no_car,home_oxygen,lives_alone,Korean,555-0127,epark@fakemail.com
+R005,Raymond Chu,61,North Ridge,cane,has_car,none,lives_with_roommate,Mandarin,555-0164,rchu@fakemail.com
+R006,Diane Trevino,77,South Ridge,walker,no_car,dialysis_equipment,lives_with_spouse,Spanish,555-0235,dtrevino@fakemail.com
+R007,Gerald Osei,70,South Ridge,none,has_car,none,lives_alone,English,555-0218,gosei@fakemail.com
+R008,Nancy Whitfield,65,South Ridge,none,has_car,none,lives_with_family,English,555-0276,nwhitfield@fakemail.com
+R009,Samuel Ibarra,80,South Ridge,wheelchair,no_car,none,lives_alone,Spanish,555-0259,sibarra@fakemail.com
+R010,Priya Nair,58,South Ridge,none,has_car,none,lives_with_spouse,Malayalam,555-0243,pnair@fakemail.com
+R011,Arthur Delacroix,73,East Ridge,cane,has_car,none,lives_with_spouse,French,555-0312,adelacroix@fakemail.com
+R012,Rosa Ferreira,66,East Ridge,none,no_car,none,lives_with_family,Portuguese,555-0387,rferreira@fakemail.com
+R013,Henry Kozlowski,78,East Ridge,walker,no_car,portable_nebulizer,lives_alone,Polish,555-0341,hkozlowski@fakemail.com
+R014,Carmen Liston,60,East Ridge,none,has_car,none,lives_with_roommate,English,555-0329,cliston@fakemail.com
+R015,Beatrice Yun,85,East Ridge,wheelchair,no_car,home_oxygen,lives_alone,Korean,555-0368,byun@fakemail.com
+R016,Minh Hoang,81,West Ridge,wheelchair,no_car,home_oxygen,lives_alone,Vietnamese,555-0471,mhoang@fakemail.com
+R017,Fatima Al-Rashid,69,West Ridge,none,has_car,none,lives_with_spouse,Arabic,555-0452,falrashid@fakemail.com
+R018,Douglas Patten,76,West Ridge,cane,has_car,none,lives_with_family,English,555-0498,dpatten@fakemail.com
+R019,Yuki Tamura,63,West Ridge,none,no_car,portable_nebulizer,lives_alone,Japanese,555-0416,ytamura@fakemail.com
+R020,Gloria Mensah,71,West Ridge,walker,no_car,none,lives_with_spouse,Twi,555-0433,gmensah@fakemail.com
