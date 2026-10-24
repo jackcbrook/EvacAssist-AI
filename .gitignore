@@ -221,3 +221,9 @@ __marimo__/
 
 # macOS
 .DS_Store
+
+# Local-only test scripts (not shared)
+test_bedrock.py
+test_incidents.py
+test_draft_message.py
+tests/test_bedrock_client.py
